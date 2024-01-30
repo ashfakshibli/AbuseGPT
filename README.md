@@ -5,3 +5,8 @@ The issue of SMS phishing, commonly referred to as "smishing," poses a significa
 Furthermore, the evolution of conversational AI chatbot services, exemplified by platforms such as OpenAI's ChatGPT and Google's BARD, has been remarkable. These services, powered by large pre-trained language models (LLMs), have seen significant advancements. Our research dives into the potential repercussions of leveraging these generative AI-based chatbots by attackers to orchestrate smishing campaigns. Notably, there is a dearth of existing literature addressing the intersection of generative text-based models and the SMS phishing threat, making our study pioneering in this domain.
 
 Our investigation yields compelling evidence indicating how attackers can exploit existing generative AI services by employing prompt injection attacks to craft smishing messages, thereby circumventing ethical standards. We underscore the necessity of proactive measures to counter the abuse of generative AI services and mitigate the risks posed by smishing attacks. Additionally, we offer insights into potential avenues for future research and guidelines aimed at safeguarding users against such malicious activities.
+
+
+## Abusing BARD
+
+![Screenshot 2024-01-19 at 11 01 34 PM](https://github.com/ashfakshibli/AbuseGPT/assets/18633979/5b21255f-23da-46fc-84b9-b0ee74a3a695)
